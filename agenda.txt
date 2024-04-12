@@ -1,0 +1,6 @@
+1. Setup github
+2. New environment
+3. Mini project structure
+4. setup.py
+5. requirements.txt
+
